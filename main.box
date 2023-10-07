@@ -1,0 +1,52 @@
+Dim httpd
+
+
+Shell.Service.RunService "MODHTTPASP", "MODHTTP FOR ASP", "MODHTTP FOR ASP"
+
+'---------------------- Service Event ---------------------
+
+Sub OnServiceStart()
+    Set httpd = NetBox.CreateObject("NetBox.HttpServer")
+
+    If httpd.Create("",9005) = 0 Then
+Set host = httpd.AddHost("","\www")
+host.EnableScript = true
+host.AddDefault "default.asp"
+host.AddDefault "default.htm"
+host.AddDefault "index.asp"
+host.AddDefault "index.htm"
+
+'<--STRAT-->
+	Set host1 = httpd.AddHost("localhost1","\ÍøÕ¾Ä¿Â¼")
+        host1.EnableScript = true
+        host1.AddDefault "default.asp"
+        host1.AddDefault "default.htm"
+        host1.AddDefault "index.asp"
+        host1.AddDefault "index.htm"
+
+	Set host2 = httpd.AddHost("127.0.0.1","\ÍøÕ¾Ä¿Â¼")
+        host2.EnableScript = true
+        host2.AddDefault "default.asp"
+        host2.AddDefault "default.htm"
+        host2.AddDefault "index.asp"
+        host2.AddDefault "index.htm"
+'<--END-->
+
+
+        httpd.Start
+    else
+        Shell.Quit 0
+    end if
+End Sub
+
+Sub OnServiceStop()
+    httpd.Close
+End Sub
+
+Sub OnServicePause()
+    httpd.Stop
+End Sub
+
+Sub OnServiceResume()
+    httpd.Start
+End Sub

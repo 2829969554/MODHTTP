@@ -1,0 +1,37 @@
+220817 15:29:46 [Note] Plugin 'FEDERATED' is disabled.
+220817 15:29:46 InnoDB: The InnoDB memory heap is disabled
+220817 15:29:46 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220817 15:29:46 InnoDB: Compressed tables use zlib 1.2.3
+220817 15:29:46 InnoDB: Initializing buffer pool, size = 47.0M
+220817 15:29:46 InnoDB: Completed initialization of buffer pool
+220817 15:29:46 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+220817 15:29:46  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+220817 15:29:46  InnoDB: Waiting for the background threads to start
+220823 21:28:54 [Note] Plugin 'FEDERATED' is disabled.
+220823 21:28:54 InnoDB: The InnoDB memory heap is disabled
+220823 21:28:54 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+220823 21:28:54 InnoDB: Compressed tables use zlib 1.2.3
+220823 21:28:54 InnoDB: Initializing buffer pool, size = 47.0M
+220823 21:28:54 InnoDB: Completed initialization of buffer pool
+220823 21:28:54 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+220823 21:28:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+220823 21:28:54  InnoDB: Waiting for the background threads to start
+220823 21:28:55 InnoDB: 5.5.47 started; log sequence number 1595675
+220823 21:28:55 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+220823 21:28:55 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+220823 21:28:55 [Note] Server socket created on IP: '0.0.0.0'.
+220823 21:28:55 [Note] Event Scheduler: Loaded 0 events
+220823 21:28:55 [Note] C:\Users\Administrator\Desktop\modhttp\MYSQL\bin\mysqld.exe: ready for connections.
+Version: '5.5.47'  socket: ''  port: 3306  MySQL Community Server (GPL)
