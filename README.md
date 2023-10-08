@@ -1,13 +1,28 @@
 # MODHTTP SERVER
 
+![输入图片说明](fw.png)
+
+项目地址：https://gitee.com/wxgshuju/modhttp-server
+
 #### 介绍
-MODHTTP SERVER是采用国产化编程易语言开发的服务器软件。支持所有Windows系统版本，该程序集成最新的Nginx+ASP+PHP+MySQL+Openssl+HOSTS+MYSQL-FORM+Sqlite数据库管理器+Access数据库管理器;支持HTTP1.1/HTTP2/HTTP3,绿色服务一次性安装，实现NGINX配置可视化管理、PHP可视化配置，一键启动即可使用非常方便快捷、是一个好用的网站搭建调试环境。
+MODHTTP SERVER是采用国产化编程易语言开发的网站服务器软件。该程序集成Nginx+ASP+PHP+MySQL+Openssl+HOSTS+MYSQL-FORM+Sqlite数据库管理器+Access数据库管理器;支持HTTP1.1协议、HTTP2协议、HTTP3协议，该工具实现NGINX配置可视化编辑、PHP可视化配置可视化编辑，该程序不仅包括ASP、PHP、Modhttp调试环境，还包括了开发工具、开发手册等
 
 #### 声明
-开发者：@魔帝本尊
-本软件基于开源Apache协议公开发布，允许转发，允许第三方修改，本软件永久免费，终身免费，持续更新维护中...
-本软件以开源，如需要程序源码在OPEN-SOURCE中查看.
+
+本软件基于开源协议Apache发布，允许转发，允许第三方修改，本软件永久免费，终身免费
+
+软件开发者：魔帝本尊
+
+支持平台：Windows
+
+优点：绿色服务解压即可安装，一键可视化配置即可使用
+
+项目状态：持续更新维护中...
+
+本软件已经开源，如需要程序源码请在OPEN-SOURCE中查看.
+
 #### 软件架构
+
 本软件需要安装以下运行库库
 Microsoft Visual C++ 2015-2022 Redistributable 14.38.32919.0 (2023-08-09)
 
@@ -15,15 +30,16 @@ x64 [https://download.visualstudio.microsoft.com/download/pr/02a6d5c5-3e10-47de-
 
 x86 [https://download.visualstudio.microsoft.com/download/pr/02a6d5c5-3e10-47de-8025-d97a1321d3e3/AD573D3198853FC71137A88E51ABDE844B84F29B0CE6DD91BBEC661BC0143B36/VC_redist.x86.exe](https://download.visualstudio.microsoft.com/download/pr/02a6d5c5-3e10-47de-8025-d97a1321d3e3/AD573D3198853FC71137A88E51ABDE844B84F29B0CE6DD91BBEC661BC0143B36/VC_redist.x86.exe)
 
-#### 下载途径
+#### 下载路径
+
 最新版本：32.02
-Gitee下载[https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z](https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z)
 
-百度云盘下载[链接：https://pan.baidu.com/s/1gSJ4-8iYEEp9pcfB9T6OCg?pwd=k46w 
-提取码：k46w](https://pan.baidu.com/s/1gSJ4-8iYEEp9pcfB9T6OCg?pwd=k46w )
+Gitee：[https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z](https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z)
+
+百度云：[链接：https://pan.baidu.com/s/1gSJ4-8iYEEp9pcfB9T6OCg?pwd=k46w 提取码：k46w](https://pan.baidu.com/s/1gSJ4-8iYEEp9pcfB9T6OCg?pwd=k46w )
 
 
-阿里云盘下载[https://www.aliyundrive.com/s/eNRtZX34YJP](https://www.aliyundrive.com/s/eNRtZX34YJP)
+阿里云：[https://www.aliyundrive.com/s/eNRtZX34YJP](https://www.aliyundrive.com/s/eNRtZX34YJP)
 
 #### 安装教程
 
