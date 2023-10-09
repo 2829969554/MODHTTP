@@ -4,6 +4,10 @@
 
 项目地址：https://gitee.com/wxgshuju/modhttp-server
 
+![输入图片说明](oschina.png)
+开源中国：https://www.oschina.net/p/modhttp-server
+
+
 #### 介绍
 MODHTTP SERVER是采用国产化编程易语言开发的网站服务器软件。该程序集成Nginx+ASP+PHP+MySQL+Openssl+HOSTS+MYSQL-FORM+Sqlite数据库管理器+Access数据库管理器;支持HTTP1.1协议、HTTP2协议、HTTP3协议，该工具实现NGINX配置可视化编辑、PHP可视化配置可视化编辑，该程序不仅包括ASP、PHP、Modhttp调试环境，还包括了开发工具、开发手册等
 
