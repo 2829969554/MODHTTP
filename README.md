@@ -45,10 +45,14 @@ Gitee（含源码）：[https://gitee.com/wxgshuju/modhttp-server/raw/master/MOD
 
 .api文件  是MODHTTP专属的易语言网页视图模块文件，作用等同PHP、ASP
 
-内存加速1.7.ec  来源为汇编大神 白银大佬无偿提供
+内存加速1.7.ec  来源为汇编大神 白银大佬(2962946246) 无偿提供
 
-e2ee.fne e2ee_staticlib e2ee_static.res 来源为 E2EE2.3.2免费版支持库
-源码中用到了编码转换类，动态内存库类
+
+e2ee.fne e2ee_staticlib e2ee_static.res 来源为 E2EE网站迅捷开发群(536544662) 
+
+2.3.2免费版支持库
+
+源码中用到了编码转换类，动态内存库类等...
 
 
 本地调试器.exe   是MODHTTP专属视图模块的调试工具，可以清晰看到浏览器请求到MODHTTP 8081端口的各种信息
