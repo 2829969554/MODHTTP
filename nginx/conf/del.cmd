@@ -1,2 +1,0 @@
-del *.crt
-del *.key
