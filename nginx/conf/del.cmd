@@ -1,0 +1,2 @@
+del *.crt
+del *.key

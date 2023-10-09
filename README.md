@@ -34,12 +34,27 @@ x86 [https://download.visualstudio.microsoft.com/download/pr/02a6d5c5-3e10-47de-
 
 最新版本：32.02
 
-Gitee：[https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z](https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z)
+Gitee（含源码）：[https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z](https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z)
 
-百度云：[链接：https://pan.baidu.com/s/1gSJ4-8iYEEp9pcfB9T6OCg?pwd=k46w 提取码：k46w](https://pan.baidu.com/s/1gSJ4-8iYEEp9pcfB9T6OCg?pwd=k46w )
+代码库中所有文件经过病毒扫描查杀
+
+![输入图片说明](t0.png)
 
 
-阿里云：[https://www.aliyundrive.com/s/eNRtZX34YJP](https://www.aliyundrive.com/s/eNRtZX34YJP)
+.e文件    是易语言源代码
+
+.api文件  是MODHTTP专属的易语言网页视图模块文件，作用等同PHP、ASP
+
+内存加速1.7.ec  来源为汇编大神 白银大佬无偿提供
+
+e2ee.fne e2ee_staticlib e2ee_static.res 来源为 E2EE2.3.2免费版支持库
+源码中用到了编码转换类，动态内存库类
+
+
+本地调试器.exe   是MODHTTP专属视图模块的调试工具，可以清晰看到浏览器请求到MODHTTP 8081端口的各种信息
+
+如果仅用PHP、ASP、MySQL等集成环境 不使用MODHTTP网页视图模块文件则无需打开本地调试器.exe
+
 
 #### 安装教程
 
