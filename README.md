@@ -16,7 +16,7 @@ MODHTTP SERVER是采用国产化编程易语言开发的网站服务器软件。
 
 支持HTTP1.1协议、HTTP2协议、HTTP3协议，该工具实现NGINX配置可视化编辑、PHP可视化配置可视化编辑，
 
-该程序不仅包括ASP、PHP、Modhttp调试环境，还包括了MODHTTP网页视图模块开发工具、开发手册等
+该程序不仅包括ASP、PHP、Modhttp调试环境，还包括了MODHTTP专属易语言网页视图模块开发工具、开发手册等
 
 
 #### 声明
@@ -44,9 +44,9 @@ x86 [https://download.visualstudio.microsoft.com/download/pr/02a6d5c5-3e10-47de-
 
 #### 下载路径
 
-最新版本：32.02
+最新版本：33.03
 
-Gitee（含源码）：[https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z](https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z)
+Gitee（含源码）：[https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER33.03.7z](https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER33.03.7z)
 
 代码库中所有文件经过病毒扫描查杀
 
