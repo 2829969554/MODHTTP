@@ -4,9 +4,7 @@
 
 项目地址：https://gitee.com/wxgshuju/modhttp-server
 
-![输入图片说明](oschina.png)
-
-开源中国：https://www.oschina.net/p/modhttp-server
+![输入图片说明](oschina.png)开源中国：https://www.oschina.net/p/modhttp-server
 
 
 #### 介绍
