@@ -44,7 +44,7 @@ x86 [https://download.visualstudio.microsoft.com/download/pr/02a6d5c5-3e10-47de-
 
 最新版本：33.06
 
-Gitee（含源码）：[https://gitee.com/wxgshuju/modhttp-server/repository/archive/master.zip](https://gitee.com/wxgshuju/modhttp-server/repository/archive/master.zip)
+Gitee（含源码）：[https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER33.06.7z](https://gitee.com/wxgshuju/modhttp-server/raw/master/MODHTTP_SERVER32.02.7z)
 
 代码库中所有文件经过病毒扫描查杀
 
