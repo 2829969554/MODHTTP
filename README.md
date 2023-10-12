@@ -42,7 +42,7 @@ x86 [https://download.visualstudio.microsoft.com/download/pr/02a6d5c5-3e10-47de-
 
 #### 下载路径
 
-最新版本：33.04
+最新版本：33.05
 
 Gitee（含源码）：[https://gitee.com/wxgshuju/modhttp-server/repository/archive/master.zip](https://gitee.com/wxgshuju/modhttp-server/repository/archive/master.zip)
 
